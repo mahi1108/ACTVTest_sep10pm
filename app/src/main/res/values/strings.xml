@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ACTVTest_sep10pm</string>
+    <string-array name="countries">
+        <item>Australia</item>
+        <item>Bangladesh</item>
+        <item>Canada</item>
+        <item>China</item>
+        <item>India</item>
+        <item>Ireland</item>
+        <item>Indonasia</item>
+    </string-array>
+</resources>
